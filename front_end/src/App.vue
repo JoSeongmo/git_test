@@ -139,7 +139,7 @@
               <router-link to="/excel/tutorial" class="dropdown-item">Tutorial upload</router-link>
             </li>
             <li>
-              <router-link to="/excel/dept" class="dropdown-item">Dept upload</router-link>
+              <router-link to="/excel/dept" class="dropdown-item">Dept uploadfsdfsfdffdsf</router-link>
             </li>
           </ul>
         </li>
