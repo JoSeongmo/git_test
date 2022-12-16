@@ -11,7 +11,7 @@
             href="#"
             role="button"
             aria-expanded="false"
-            >Department Info</a
+            >조성모가 수정함</a
           >
           <ul class="dropdown-menu">
             <li>
@@ -139,7 +139,7 @@
               <router-link to="/excel/tutorial" class="dropdown-item">Tutorial upload</router-link>
             </li>
             <li>
-              <router-link to="/excel/dept" class="dropdown-item">Dept uploadfsdfsfdffdsf</router-link>
+              <router-link to="/excel/dept" class="dropdown-item">테스트입니다.f</router-link>
             </li>
           </ul>
         </li>
